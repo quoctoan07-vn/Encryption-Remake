@@ -6,6 +6,8 @@
  *
  * This software is a remake / derivative work of oxorany
  * (https://github.com/llxiaoyuan/oxorany).
+ * Obfuscation techniques are also inspired by O-MVLL
+ * (https://obfuscator.re/omvll).
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
