@@ -45,7 +45,7 @@ A unique temporary buffer of randomised size is created for each obfuscated valu
 ## Usage
 
 ```cpp
-#include "quoctoandev.h"
+#include "QUOCTOANDEV.h"
 
 int main() {
     // String obfuscation
