@@ -2,7 +2,7 @@
  * MIT License
  *
  * Copyright (c) 2021 Chase (llxiaoyuan) - original oxorany
- * Copyright (c) 2026 Quoc Toan Dev - modifications and remake
+ * Copyright (c) 2026 Quoc Toan x Minh Vu junior - modifications and remake
  *
  * This software is a remake / derivative work of oxorany
  * (https://github.com/llxiaoyuan/oxorany).
